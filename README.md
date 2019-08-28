@@ -1,4 +1,5 @@
 # Robot-Arms
+*This project is implemented using GLSL.*
 ### [how to play]  
 * < spacebar > : The robot arms start or stop rotating and moving around the joints.  
 * < '2' key >  : It shows or hide position of the target which is the red cube.  
